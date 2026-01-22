@@ -34,17 +34,14 @@ I have experience developing **real-world projects**, including internal systems
 
 <div align="center">
 
-  ### 🛠 Tech Stack
+### 🛠 Tech Stack
 
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   </p>
@@ -54,10 +51,7 @@ I have experience developing **real-world projects**, including internal systems
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
@@ -69,7 +63,7 @@ I have experience developing **real-world projects**, including internal systems
 
 <div align="center">
 
-  ### 📈 GitHub Stats
+### 📈 GitHub Stats
 
   <table>
     <tr>
