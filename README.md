@@ -23,8 +23,9 @@
 </div>
 
 ---
-
+<div align ="center">
 ### 👨‍💻 About Me
+</div>
 
 I'm a passionate **Junior Software Engineer** with a strong interest in **backend and full-stack development**. I enjoy building scalable web applications, designing RESTful APIs, and working with modern JavaScript frameworks.
 
