@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Reza+Pahlevi;Junior+Software+Engineer;Full-Stack+Developer+And+Enthusiast;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Reza+Pahlevi;Junior+Software+Engineer;Full-Stack+Developer+And+Enthusiast;" alt="Typing SVG" />
   </a>
 
   <p>📍 Batam, Indonesia</p>
