@@ -65,9 +65,6 @@ I have experience developing **real-world projects**, including internal systems
 
 ---
 
-<div align="center">
-
-### 📈 GitHub Stats
 
   <!-- <table>
     <tr>
@@ -79,11 +76,16 @@ I have experience developing **real-world projects**, including internal systems
       </td>
     </tr>
   </table> -->
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habialtx3&show_icons=true&theme=radical&count_private=true&hide_rank=false)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habialtx3&layout=compact&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habialtx3&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=habialtx3&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habialtx3&layout=compact&theme=tokyonight) -->
+
+![GitHub Streak](https://streak-stats.demolab.com?user=habialtx3&theme=tokyonight)
 
 </div>
+
+---
