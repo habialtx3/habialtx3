@@ -23,6 +23,7 @@
 </div>
 
 ---
+
 <div align="center">
 
 ### 👨‍💻 About Me
@@ -68,7 +69,7 @@ I have experience developing **real-world projects**, including internal systems
 
 ### 📈 GitHub Stats
 
-  <table>
+  <!-- <table>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=habialtx3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Reza's Github Stats" />
@@ -77,6 +78,12 @@ I have experience developing **real-world projects**, including internal systems
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habialtx3&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
-  </table>
+  </table> -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habialtx3&show_icons=true&theme=radical&count_private=true&hide_rank=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habialtx3&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=habialtx3&theme=radical)
 
 </div>
