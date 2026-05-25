@@ -82,10 +82,14 @@ I have experience developing **real-world projects**, including internal systems
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habialtx3&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habialtx3&layout=compact&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habialtx3&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=habialtx3&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=habialtx3&theme=tokyonight) -->
 
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api?username=habialtx3&theme=dark" alt="habialtx3's GitHub Stats" height="195" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=habialtx3&theme=dark" alt="Top Languages" height="195" />
+</p>
 </div>
 
 ---
