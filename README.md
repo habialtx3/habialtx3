@@ -87,9 +87,10 @@ I have experience developing **real-world projects**, including internal systems
       </td>
     </tr>
   </table> -->
-## 📊 GitHub Stats
 
 <div align="center">
+## 📊 GitHub Stats
+
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habialtx3&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false)
 
